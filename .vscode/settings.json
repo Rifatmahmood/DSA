@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.js": "javascriptreact",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "ostream": "cpp",
+    "new": "cpp",
+    "iosfwd": "cpp",
+    "stack": "cpp"
+  }
+}

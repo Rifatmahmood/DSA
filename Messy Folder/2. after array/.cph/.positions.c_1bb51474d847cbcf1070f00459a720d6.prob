@@ -1,0 +1,1 @@
+{"name":"Local: positions","url":"/Users/rifat/Phitron/Test Folder/2. after array/positions.c","tests":[{"id":1697100959673,"input":"5\n1 2 100 0 30","output":"A[0] = 1\nA[1] = 2\nA[3] = 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rifat/Phitron/Test Folder/2. after array/positions.c","group":"local","local":true}

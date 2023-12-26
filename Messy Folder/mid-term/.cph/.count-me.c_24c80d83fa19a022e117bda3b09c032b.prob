@@ -1,0 +1,1 @@
+{"name":"Local: count-me","url":"/Users/rifat/Phitron/mid-term/count-me.c","tests":[{"id":1697810146001,"input":"5\n1 4 2 5 3","output":"2 1"},{"id":1697812866967,"input":"4\n6 9 12 15","output":"2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rifat/Phitron/mid-term/count-me.c","group":"local","local":true}

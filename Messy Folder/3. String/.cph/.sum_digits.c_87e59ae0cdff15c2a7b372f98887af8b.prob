@@ -1,0 +1,1 @@
+{"name":"Local: sum_digits","url":"/Users/rifat/Phitron/Test Folder/3. String/sum_digits.c","tests":[{"id":1697797362456,"input":"5\n13305","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rifat/Phitron/Test Folder/3. String/sum_digits.c","group":"local","local":true}

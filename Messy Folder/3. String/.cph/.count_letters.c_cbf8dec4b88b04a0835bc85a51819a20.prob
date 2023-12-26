@@ -1,0 +1,1 @@
+{"name":"Local: count_letters","url":"/Users/rifat/Phitron/Test Folder/3. String/count_letters.c","tests":[{"id":1697803529781,"input":"aaabbc","output":"a : 3\nb : 2\nc : 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rifat/Phitron/Test Folder/3. String/count_letters.c","group":"local","local":true}
