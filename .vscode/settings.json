@@ -7,6 +7,10 @@
     "ostream": "cpp",
     "new": "cpp",
     "iosfwd": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "__bit_reference": "cpp",
+    "queue": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp"
   }
 }
